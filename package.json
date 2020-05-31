@@ -1,0 +1,32 @@
+{
+  "name": "jest-puppeteer-chai",
+  "version": "1.0.0",
+  "description": "Website E2E testing using Jest, Puppeteer and Chai.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajeevsp/jest-puppeteer-chai.git"
+  },
+  "keywords": [
+    "Jest",
+    "E2E",
+    "Testing",
+    "Puppeteer",
+    "Chai"
+  ],
+  "author": "Sajeev S P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sajeevsp/jest-puppeteer-chai/issues"
+  },
+  "homepage": "https://github.com/sajeevsp/jest-puppeteer-chai#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.0.1",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "3.1.0"
+  }
+}
